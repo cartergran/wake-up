@@ -1,4 +1,4 @@
-# wake-up
+# Wake-Up
 iPhone Application designed to be the first app you open in the morning. 
 
 # Featuring:
